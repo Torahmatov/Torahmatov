@@ -1,19 +1,15 @@
-![image](https://github.com/user-attachments/assets/06e7639f-076b-4b59-8297-53c5ba4da1f0)<h1 align="center">Frontend Developer</h1>
+<h1 align="center">Frontend Developer</h1>
 
 ## Hi there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 I am a frontend software engineer specializing in building high load frontend services, web site using React. I solve problems, automate things, help businesses and people to grow and improve life. </br>
 
-I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
-[![Linkedinstagram Badge](https://img.shields.io/badge/-torahmatov_hasan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/instagram/torahmatov_hasan-100845186/)](https://www.instagram.com/_torahmatov_/) 
-
-[![Telegram Badge](https://img.shields.io/badge/@Developer_frontend_c-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/torahmatovhasan)](https://t.me/torahmatovhasan) 
 
   
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :computer: I'm currently working on React.js
+- :computer:  I'm currently working on React.js
 - :hourglass_flowing_sand:  Exploring Microservices & Event Driven Architecture
 - :triangular_flag_on_post: I watch more video tutorials on YouTube
 - :muscle: Do Bodybuilding & Football
@@ -45,6 +41,4 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 ![Image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=torahmatovhasan&show_icons=true&theme=gotham" alt="torahmatovhasan" />
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=torahmatovhasan&theme=onestar&row=1&margin-w=15&margin-h=15&no-bg=true" alt="torahmatovhasan" /></a> </p>
