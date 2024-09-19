@@ -7,8 +7,7 @@ I am a frontend software engineer specializing in building high load frontend se
 I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-torahmatov_hasan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/torahmatov_hasan-100845186/)](https://www.instagram.com/_torahmatov_/) 
-[![Telegram Badge](https://img.shields.io/badge/@Deaveloper_frontend_c-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/torahmatovhasan)](![image](![image](https://github.com/user-attachments/assets/fb99e68e-7709-4ac9-aca7-601ae83eb292)
-)
+[![Telegram Badge](https://img.shields.io/badge/@Deaveloper_frontend_c-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/torahmatovhasan)]()
 ) 
 
   
