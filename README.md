@@ -1,22 +1,23 @@
-<h1 align="center">PHP Developer</h1>
+![image](https://github.com/user-attachments/assets/06e7639f-076b-4b59-8297-53c5ba4da1f0)<h1 align="center">Frontend Developer</h1>
 
 ## Hi there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I am a back-end software engineer specializing in building high load back-end services, web applications, and systems using PHP and Laravel. I solve problems, automate things, help businesses and people to grow and improve life. </br>
+I am a frontend software engineer specializing in building high load frontend services, web site using React. I solve problems, automate things, help businesses and people to grow and improve life. </br>
 
 I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-sukhrob_nuraliev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sukhrob-nuraliev-100845186/)](https://www.linkedin.com/in/sukhrob-nuraliev-100845186/) 
-[![Telegram Badge](https://img.shields.io/badge/@sukhrobnuraliev-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/sukhrobnuraliev)](https://t.me/sukhrobnuraliev) 
-[![Youtube Badge](https://img.shields.io/badge/@NuraliyevOrgatadi-FF0004?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@NuraliyevOrgatadi)](https://www.youtube.com/@NuraliyevOrgatadi)
+[![Linkedin Badge](https://img.shields.io/badge/-torahmatov_hasan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/torahmatov_hasan-100845186/)](https://www.instagram.com/_torahmatov_/) 
+[![Telegram Badge](https://img.shields.io/badge/@Deaveloper_frontend_c-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/torahmatovhasan)](![image](![image](https://github.com/user-attachments/assets/fb99e68e-7709-4ac9-aca7-601ae83eb292)
+)
+) 
 
   
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :computer: I'm currently working on Laravel & Vue
+- :computer: I'm currently working on React.js
 - :hourglass_flowing_sand:  Exploring Microservices & Event Driven Architecture
-- :triangular_flag_on_post: I teach code on YouTube
-- :muscle: Do Bodybuilding & Calisthenics
+- :triangular_flag_on_post: I watch more video tutorials on YouTube
+- :muscle: Do Bodybuilding & Football
 - :rocket: Always ready to collaborate for Dev Experiments
 
 ## ⚡ Technologies
@@ -45,6 +46,6 @@ I am always open to collaborating on projects and innovative/disruptive ideas. F
 ![Image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sukhrobnuraliev&show_icons=true&theme=gotham" alt="sukhrobnuraliev" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=torahmatovhasan&show_icons=true&theme=gotham" alt="torahmatovhasan" />
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sukhrobnuraliev&theme=onestar&row=1&margin-w=15&margin-h=15&no-bg=true" alt="sukhrobnuraliev" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=torahmatovhasan&theme=onestar&row=1&margin-w=15&margin-h=15&no-bg=true" alt="torahmatovhasan" /></a> </p>
