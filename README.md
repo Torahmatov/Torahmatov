@@ -46,3 +46,6 @@ I am a frontend software engineer specializing in building high load frontend se
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Torahmatov&theme=onestar&row=1&margin-w=15&margin-h=15&no-bg=true" alt="Torahmatov" /></a> </p>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Torahmatov&theme=github_dark" alt="info">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Torahmatov&theme=tokyonight_duo&hide_border=true)](https://github.com/Torahmatov/)
+
